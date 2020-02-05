@@ -10,11 +10,11 @@ Here is how to choose the element you want to color and inside it you will put t
 * Universal Selector: (* {}
 Targets all elements on the page)
 
-* Type Selector: (
+* Type Selector: 
     h1, h2, h3 {}
 Targets the <h1>, <h2> and <h3>
 elements
-)
+
 
 * Class Selector:
 .note {}

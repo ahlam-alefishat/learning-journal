@@ -4,38 +4,7 @@
 convey the mood and evokes reactions.
 
 
-### the most important thing is to lnow how to choose the element to color .
-Here is how to choose the element you want to color and inside it you will put the coloring attributes:
 
-* Universal Selector: (* {}
-Targets all elements on the page)
-
-* Type Selector: (
-    h1, h2, h3 {}
-Targets the <h1>, <h2> and <h3>
-elements
-)
-
-* Class Selector:
-.note {}
-Targets any element whose class
-attribute has a value of note
-p.note {}
-Targets only <p> elements
-whose class attribute has a
-value of note
-
-* ID Selector:#introduction {}
-Targets the element whose
-id attribute has a value of
-introduction
-
-* Child Selector:
-li>a {}
-Targets any <a> elements that
-are children of an <li> element
-(but not other <a> elements in
-the page)
  
  ### you can choose the colors you want using one of these three colors modes:
  - There are three ways to specify colors in CSS:

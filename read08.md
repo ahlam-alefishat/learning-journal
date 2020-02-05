@@ -28,4 +28,4 @@ while (i<10){
 example:
 do {
     document.write(i);
-} while={i<10>}
+} while(i<10>)
